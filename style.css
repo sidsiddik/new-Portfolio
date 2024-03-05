@@ -379,3 +379,11 @@ footer i{
 .contact-page i{
     margin-right: 10px;
 }
+.paragraph-sec{
+    width: 300px;
+}
+@media only screen and(max-width:300px) {
+    .paragraph-sec{
+        width: 250px;
+    }
+}
